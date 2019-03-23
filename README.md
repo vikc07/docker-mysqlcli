@@ -16,6 +16,9 @@ An alpine based image that contains MySQL command line programs
 `mysqlshow` — Display Database, Table, and Column Information
 
 ### How to use ###
+
+`docker pull vikramchauhan/mysqlcli`
+
 #### Interactive ####
 `docker run -it vikramchauhan/mysqlcli <programname> <options>`
 
