@@ -1,7 +1,7 @@
-![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/vikramchauhan/mysqlcli.svg)
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/vikramchauhan/mysqlcli.svg) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/vikramchauhan/mysqlcli.svg)
 
-# docker-mysqlcli
-An alpine based image that contains MySQL command line programs
+# docker-mysqlcli 
+Docker image that contains MySQL command line programs
 
 `mysql` — The MySQL Command-Line Client
 
