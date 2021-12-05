@@ -1,5 +1,3 @@
-![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/vikramchauhan/mysqlcli.svg) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/vikramchauhan/mysqlcli.svg)
-
 # docker-mysqlcli 
 Docker image that contains MySQL command line programs
 
