@@ -1,3 +1,3 @@
 REPO="vikramchauhan/mysqlcli"
-docker build -f ./alpine/Dockerfile -t "$REPO" -t "$REPO":alpine ./alpine
-docker build -f ./debian/Dockerfile -t "$REPO":debian ./debian
+docker build -f ./alpine/Dockerfile -t "$REPO" -t "$REPO":alpine --platform linux/amd64 ./alpine
+docker build -f ./debian/Dockerfile -t "$REPO":debian --platform linux/amd64 ./debian
